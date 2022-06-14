@@ -1,0 +1,48 @@
+.img-margin {
+    
+   padding-top: 15em;
+   text-align: center;
+
+}
+
+.search {
+   text-align: center;
+}
+
+.input {
+    border-radius: 5px;
+    border-color: black;
+    text-align: center;
+}
+
+.button {
+    margin-top: 5px;
+    margin-left: 30px;
+    width: 10em;
+}
+
+.card {
+    float: left;
+    background-color: aqua;
+    width: 20em;
+    height: 7em;
+    padding: 5%;
+
+    
+}
+
+.card-margin {
+    margin-right: 25px;
+}
+
+
+#top-margin {
+    margin-top: 35px;
+}
+.contanier {
+    display: flex;
+    padding-left: 35%;
+    padding-right: 35%;
+    text-align: center;
+    margin-top: 20px;
+}
