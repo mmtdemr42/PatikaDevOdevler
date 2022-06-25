@@ -157,3 +157,6 @@
     height: calc(50vh - 70px);
 }
 
+.devam a:hover {
+    color: black !important;
+}
