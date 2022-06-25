@@ -1,0 +1,159 @@
+.ayrac {
+    color: white;
+    font-size: 20px;
+    margin: 0px 10px;
+}
+
+.logo {
+    height: 50px;
+}
+
+.ust-kisim {
+    background-image: url(/Bootstrap/Ornek/assets/resimler/ust-bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.nav-bg {
+    background-color: rgba(93, 93, 93, 0.15);
+    color: white;
+}
+
+.nav-item a {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav-item a:hover {
+    color: #f4b70b;
+}
+
+.nav-item:hover {
+    background-color: black;
+}
+
+.logo2-mt {
+    margin-top: 100px;
+}
+
+.quote-size {
+    font-size: 500%;
+    color: #f4b70b;
+}
+
+.imza {
+    color: #f4b70b;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.imza-font-size {
+    font-size: 25px;
+}
+
+.hizmetlerimiz-bg {
+    background-color: #f4b70b;
+    width: 100%;
+}
+
+.hizmetlerimiz-img-boyut {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.kimiz-pp {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+
+}
+
+.calisan-bg {
+    background-color: #2c3e50;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.slogan {
+    margin-top: 120px;
+    background-image: url(/Bootstrap/Ornek/assets/resimler/ust-bg.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.rocket-size {
+    font-size: 120px;
+}
+
+.slogan-font-size {
+    font-size: 36px;
+}
+
+.calismalarimiz {
+    width: 100%;
+}
+
+
+.calisma-border {
+    margin-right: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.113);
+    padding: 3px;
+
+}
+
+.footer-size {
+    height: 30vh;
+}
+
+.footer-icon-size {
+    font-size: 36px;
+    margin-top: 40px;
+    margin-right: 5px;
+}
+
+
+.hakkimizda-ust-kisim {
+    background-image: url(/Bootstrap/Ornek/assets/resimler/ust-bg-2.jpg);
+    height: 55vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.hakkimizda-color {
+    color: #f4b70b;
+}
+
+.hizmet {
+    margin-top: 10px;
+}
+
+.img-border-black {
+    border: 2px solid black;;
+}
+
+.calismalarimiz:hover {
+    border: 1px solid black;
+}
+.calisma-boder {
+    border: 1px solid transparent;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.portfoy-height {
+    height: calc(50vh - 70px);
+}
+
